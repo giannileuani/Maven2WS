@@ -1,0 +1,10 @@
+com\digiwack\school\package-info.class
+com\digiwack\school\StudentDetailsResponse.class
+com\digiwack\ServletInitializer.class
+com\digiwack\Config.class
+com\digiwack\StudentRepository.class
+com\digiwack\school\Student.class
+com\digiwack\Maven2WsApplication.class
+com\digiwack\school\StudentDetailsRequest.class
+com\digiwack\StudentEndpoint.class
+com\digiwack\school\ObjectFactory.class
